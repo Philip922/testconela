@@ -1,0 +1,7 @@
+# codigo para comprar pasta
+1. coger las llaves
+2. salir de la casa
+3. id al d1
+4. pagar
+5. regresar a casa
+6. cerrar la puerta

@@ -1,0 +1,8 @@
+# codigo para cocinar pasta
+1. sacar la olla
+2. llenar con agua
+3. poner sal
+4. poner a fuego alto
+5. echar pasta
+6. esperar # hasta que sepa rico asi sea tonto
+7. sacar la pasta
