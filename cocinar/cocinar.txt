@@ -1,8 +1,8 @@
 # codigo para cocinar pasta
 1. sacar la olla
 2. llenar con agua
-3. poner sal
-4. poner a fuego alto
+3. poner a fuego alto
+4. una vez haya hervido el agua, agregar sal al gusto
 5. echar pasta
-6. esperar # hasta que sepa rico asi sea tonto
-7. sacar la pasta
+6. esperar el tiempo que dice el paquete # hasta que sepa rico asi sea tonto
+7. sacar el agua de la pasta
