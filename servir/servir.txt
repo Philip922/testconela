@@ -1,5 +1,5 @@
 # pasos para servir la pasta
-sacar un plato
-usar un implemento para sacar pasta de la olla
-poner la pasta en el plato
-llevar el plato a la mesa
+1. sacar un plato
+2. usar un implemento para sacar pasta de la olla
+3. poner la pasta en el plato
+4. llevar el plato a la mesa
